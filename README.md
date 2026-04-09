@@ -1,3 +1,4 @@
+# EduGest v1.0
 # Plataforma Colegio Pio XII
 
 Aplicación web desarrollada con **Vue 3 + Vite + TypeScript** para la gestión académica de Docentes, Cursos y Estudiantes del Colegio Pio XII. Proyecto final del curso de Vue 3.
