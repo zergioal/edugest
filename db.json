@@ -14,11 +14,6 @@
       "nombre": "Profesor Demo",
       "rol": "docente"
     },
-    {
-      "email": "juan@correo.com",
-      "password": "$2a$10$MpXT.A2ORW5X2l/maYx.UeCSWGXiOdRHuso19SojQGzc9BOeigvcS",
-      "id": 3
-    }
   ],
   "docentes": [
     {
